@@ -9,6 +9,9 @@ The database schema was designed to facilitate efficient analysis of production 
 
 You can explore the final visualizations here: [Historical Oil Production in British Columbia](https://public.tableau.com/app/profile/ricardo.f.lix.d.az.l.pez/viz/HistoricalOilProductioninBritishColumbia/Dashboard).
 
+![](https://github.com/Ricardod671/EDA-in-the-Province-of-British-Columbia/blob/main/EDA/dashboard.PNG)
+
+
 **Author**: Ricardo Félix Díaz López
 
 
